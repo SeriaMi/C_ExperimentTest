@@ -4,4 +4,5 @@ int main()
 {
     int a, b, c, d;
     printf("Enter four integers: ");
+    printf("a = ");
 }
